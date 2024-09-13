@@ -1,4 +1,4 @@
-# Manual de uso cannon.py
+# Código modificado de cannon.py (freegames)
 
 Se aumentó la velocidad de la pelota del cañon en la función tap.
 
